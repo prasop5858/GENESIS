@@ -1,0 +1,9 @@
+ขั้นตอนการเคลียร์ Security
+
+1.       เปิด Security Config ขึ้นมาจากนั้นopen ไฟล์ sample.sec ที่ copy ไว้ในเครื่อง (หากไม่สามารถเข้าSecurity Config ได้ให้ดับเบิ้ลคลิ๊กไฟล์ Sample.sec ได้เลย)
+
+2.       จากนั้น Save
+
+3.       ทำการ Stop Genesis ( อยู่ที่C:\Program Files (x86)\Common Files\ICONICS ดับเบิ้ลคลิ๊กไฟล์StopGenesis.exe)
+
+4.       Restart
